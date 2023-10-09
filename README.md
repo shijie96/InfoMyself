@@ -1,6 +1,6 @@
 # Data Scientist
 
-## Relevent Experience
+### Relevent Experience
 Graduate Teacher’s Assistant 	/	2023  /   Pensacola, Florida /
 University of West Florida 
 -	Responsible for grading, correcting, and offering feedback for R studio assignments (significant statistical analysis, graphical data analysis) for over 160 undergraduate students (including Navy pilot students)
@@ -27,17 +27,17 @@ Rural Agricultural Census Worker	/2013-2014 / Hengshui, China /
 -	Organized, synthesized, and analyzed demographic and agricultural data to report to local officials
 
 ### Education
-Master of Science in Data Science (2023-2024) 
+#### Master of Science in Data Science (2023-2024) 
 University of West Florida 							       	
 -	Relevant Coursework: Databases for Data Science, Statistics for Data Science, Data Mining, Multivariate Methods, Modeling in Regression, Nonparametric Statistics
   
-Master of Science in Agriculture and Soil Science
+#### Master of Science in Agriculture and Soil Science
 Ningxia University  
 -	Recipient of Postgraduate Scholarship 
 -	Published master’s Thesis in Hunan Agricultural University Research Journal and Anhui Agricultural University Research Journal
 -	Relevant Coursework: Experimental Design and Statistical Analysis, Modern Analytical Equipment
 
-Bachelor of Science in Environmental Science and Agricultural Resources 
+#### Bachelor of Science in Environmental Science and Agricultural Resources 
 Jilin Agricultural University 
 -	Recipient of Provincial Government Scholarship and National Government Scholarship
 -	Relevant Coursework: Experimental Design and Statical Analysis, Linear Algebra, Advanced Math, Probability
