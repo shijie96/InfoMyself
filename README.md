@@ -45,5 +45,5 @@ Jilin Agricultural University
 ### Reletive Skills
 #### Technical Skills
 SAS, R, Python, Power BI, SPSS, Microsoft SQL Server Management Studio, Excel, Microsoft Office
-
-Languages: English, Mandarin Chinese 
+#### Languages
+English, Mandarin Chinese 
