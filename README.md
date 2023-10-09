@@ -42,3 +42,7 @@ Jilin Agricultural University
 -	Recipient of Provincial Government Scholarship and National Government Scholarship
 -	Relevant Coursework: Experimental Design and Statical Analysis, Linear Algebra, Advanced Math, Probability
 
+### Reletive Skills
+#### Technical Skills
+SAS, R, Python, Power BI, SPSS, Microsoft SQL Server Management Studio, Excel, Microsoft Office
+Languages: English, Mandarin Chinese 
