@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Relevent Experience
+## Relevent Experience
 Graduate Teacher’s Assistant 	/	2023  /   Pensacola, Florida /
 University of West Florida 
 -	Responsible for grading, correcting, and offering feedback for R studio assignments (significant statistical analysis, graphical data analysis) for over 160 undergraduate students (including Navy pilot students)
